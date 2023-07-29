@@ -1,0 +1,17 @@
+Write a Java program to print the following patterns as output onto the monitor.
+
+Alphabet Patterns
+
+(1)A
+   BB
+   CCC
+   DDDD
+   EEEEE
+   
+(2)A
+   AB
+   ABC
+   ABCD
+   ABCDE
+   
+
